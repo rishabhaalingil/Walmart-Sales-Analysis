@@ -56,7 +56,7 @@ The data contains 17 columns and 1000 rows:
       - Loyalty Programs and Retention: By identifying high-value customers, Walmart can offer targeted incentives (e.g., exclusive discounts, personalized offers) to retain and grow these segments.
 
 # Business Questions Answered
-### Generic Questions Answered
+### Generic Questions 
 1. How many unique cities does the data have?
 2. In which city is each branch?
 
