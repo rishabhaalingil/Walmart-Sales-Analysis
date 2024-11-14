@@ -6,3 +6,22 @@ The data contains 17 columns and 1000 rows:
   | Column | Description | Data Type |
   | :-| :-| :-|
   | Invoice Id | Invoice of the sales made | VARCHAR(30) |
+  | Branch | Branch at which the sales were made | VARCHAR(5) |
+  | City | The location of the branch | VARCHAR(30) |
+  | Customer Type | The type of the customer | VARCHAR(30) | 
+  | Gender | Gender of the customer making the purchase | VARCHAR(10) |
+  | Product Line | Product line of the product self | VARCHAR(100) |
+  | Unit Price | The price of each product | DECIMAL (10,2) |
+  | Quantity | The amount of the product sold | INT |
+  | VAT | The amount of tax on the purchase | FLOAT(6,4) |
+  | Total | The total cost of the purchase | DECIMAL (10,2) |
+  | Date | The date on which the purchase was made | DATE |
+  | Time | The time at which the purchase was made | TIMESTAMP |
+  | Payment Method | The total amount paid | DECIMAL (10,2) |
+  | COGS | Cost of goods sold | DECIMAL (10,2) |
+  | Gross margin percentage | Gross margin percentage | FLOAT (11,9) |
+  | Gross income | Gross income | DECIMAL (10,2) |
+  | Rating | Ratings of the customers | FLOAT (2,1) |
+  
+  
+  
