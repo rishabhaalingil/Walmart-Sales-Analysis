@@ -92,32 +92,29 @@ The data contains 17 columns and 1000 rows:
 9. Which day of the week has the best average ratings?
 10. Which day of the week has the best average ratings per branch?
 
+# Key Insights
+
+
 # Recommendations
-1. High Revenue Cities & Branches:
-- Cities and branches with the highest revenue (e.g., [city/branch]) should be prioritized for new product introductions, targeted marketing, and potential store expansions. Focus on high-performing cities to 
-  replicate success elsewhere.
+1. High Revenue Cities & Branches:Cities and branches with the highest revenue (e.g., [city/branch]) should be prioritized for new product introductions, targeted marketing, and potential store expansions. Focus 
+   on high-performing cities to replicate success elsewhere.
 
-2. Product Line Performance:
-- The analysis of "Good" vs. "Bad" sales by product line helps identify areas for improvement. Underperforming lines (e.g., [product line]) could be reevaluated for promotion, pricing strategies, or phased out 
-  in favor of higher-performing lines.
+2. Product Line Performance:The analysis of "Good" vs. "Bad" sales by product line helps identify areas for improvement. Underperforming lines (e.g., [product line]) could be reevaluated for promotion, pricing 
+   strategies, or phased out in favor of higher-performing lines.
 
-3. Seasonality and Timing:
-- Sales peaks at specific times of day or in particular months suggest the need for dynamic pricing, time-based promotions, or staffing adjustments. Prepare for high-demand periods such as the holidays or back- 
-  to-school.
+3. Seasonality and Timing:Sales peaks at specific times of day or in particular months suggest the need for dynamic pricing, time-based promotions, or staffing adjustments. Prepare for high-demand periods such 
+   as the holidays or back- to-school.
 
-4. Customer Preferences & Gender Targeting:
-- Gender-based insights into product preferences (e.g., [product line by gender]) offer opportunities for targeted marketing or special product bundles tailored to the most common gender in a particular branch.
+4. Customer Preferences & Gender Targeting:Gender-based insights into product preferences (e.g., [product line by gender]) offer opportunities for targeted marketing or special product bundles tailored to the 
+   most common gender in a particular branch.
 
-5. Customer Retention & Loyalty Programs:
-- Customer types that bring the most revenue or spend the most on VAT should be a focal point for loyalty programs. Engage these groups with personalized offers, exclusive discounts, or early access to sales 
-  events.
+5. Customer Retention & Loyalty Programs:Customer types that bring the most revenue or spend the most on VAT should be a focal point for loyalty programs. Engage these groups with personalized offers, exclusive 
+   discounts, or early access to sales events.
 
-6. Optimizing Customer Experience:
-- Understanding when customers give the most ratings and the days with the best average ratings can inform customer service improvements. Ensure high customer satisfaction consistently by replicating best 
-  practices from high-performing days.
+6. Optimizing Customer Experience:Understanding when customers give the most ratings and the days with the best average ratings can inform customer service improvements. Ensure high customer satisfaction c 
+   consistently by replicating best practices from high-performing days.
 
-7. Time-of-Day Insights for Branch Operations:
-- Timing data regarding sales and ratings helps optimize branch operations—whether it's staffing during peak hours or encouraging customer feedback post-purchase.
+7. Time-of-Day Insights for Branch Operations:Timing data regarding sales and ratings helps optimize branch operations—whether it's staffing during peak hours or encouraging customer feedback post-purchase.
 
 By leveraging these insights, Walmart can fine-tune product offerings, improve customer experiences, and make data-driven decisions to enhance overall sales performance and customer loyalty.
 
