@@ -54,3 +54,23 @@ The data contains 17 columns and 1000 rows:
       - Targeted Marketing & Personalization: With insights into customer segments, Walmart can design more effective and personalized marketing campaigns to increase customer loyalty and drive repeat purchases.
       - Inventory and Product Decisions: Understanding customer preferences helps Walmart make data-driven decisions about which products to keep in stock and which new products to introduce.
       - Loyalty Programs and Retention: By identifying high-value customers, Walmart can offer targeted incentives (e.g., exclusive discounts, personalized offers) to retain and grow these segments.
+
+# Business Questions Answered
+### Generic Questions Answered
+1. How many unique cities does the data have?
+2. In which city is each branch?
+
+### Product Based Questions
+1. How many unique product lines does the data have?
+2. What is the most common payment method?
+3. What is the most selling product line?
+4. What is the total revenue by month?
+5. What month had the largest COGS?
+6. What product line had the largest revenue?
+7. What is the city with the largest revenue?
+8. What product line had the largest VAT?
+9. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+10. Which branch sold more products than average product sold?
+11. What is the most common product line by gender?
+12. What is the average rating of each product line?
+
