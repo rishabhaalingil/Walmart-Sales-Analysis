@@ -34,4 +34,23 @@ The data contains 17 columns and 1000 rows:
    -  Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day       each branch is busiest.
    - Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and     
       profit.
+3. Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
 
+# Analysis List
+1. Product Analysis:The goal of a Product Analysis is to assess the performance of different product lines within your business. This allows you to understand which product categories are doing well and which 
+   ones might need attention or improvements.
+   #### Significance:
+        - It allows the business to focus on its best performers and either improve or discontinue weaker products.
+        - Helps in decision-making about where to invest resources for marketing.
+        - Can inform inventory and production planning.
+2. Sales Analysis:The Sales Analysis aims to understand the trends in your sales data and evaluate the effectiveness of the sales strategies you’ve applied. By analyzing sales, you can figure out whether your        marketing, pricing, or distribution strategies are working and where changes might be needed to drive more sales.
+   #### Significance:
+        - Provides insights into which sales techniques or promotional activities are most successful and should be scaled up.
+        - Helps identify underperforming sales channels or regions that might need more attention.
+        - Enables you to forecast future sales and plan resources more effectively.
+3. Customer Analysis:The Customer Analysis is focused on understanding the different segments of your customer base, their purchase behaviors, and the overall profitability of each group. This analysis provides 
+   insights into which customer groups are most valuable and how to tailor your offerings and marketing strategies to meet their needs.
+   #### Significance:
+        - Targeted Marketing & Personalization: With insights into customer segments, Walmart can design more effective and personalized marketing campaigns to increase customer loyalty and drive repeat purchases.
+        - Inventory and Product Decisions: Understanding customer preferences helps Walmart make data-driven decisions about which products to keep in stock and which new products to introduce.
+        - Loyalty Programs and Retention: By identifying high-value customers, Walmart can offer targeted incentives (e.g., exclusive discounts, personalized offers) to retain and grow these segments.
