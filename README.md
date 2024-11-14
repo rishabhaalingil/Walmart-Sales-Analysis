@@ -22,6 +22,12 @@ The data contains 17 columns and 1000 rows:
   | Gross margin percentage | Gross margin percentage | FLOAT (11,9) |
   | Gross income | Gross income | DECIMAL (10,2) |
   | Rating | Ratings of the customers | FLOAT (2,1) |
-  
+
+# Project Highlights/Steps Followed
+1. Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
+  1.	Build a database
+  2.	Create table and insert the data.
+  3.	Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
+
   
   
